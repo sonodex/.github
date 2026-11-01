@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security issue
+    url: mailto:support@sonodex.zxp.wtf
+    about: Please report vulnerabilities by email, not as a public issue.
+  - name: Documentation
+    url: https://sonodex.zxp.wtf/docs
+    about: Setup, features and troubleshooting.

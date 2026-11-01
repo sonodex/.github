@@ -10,7 +10,8 @@
 
 <a href="https://sonodex.zxp.wtf"><b>Website</b></a> ·
 <a href="https://sonodex.zxp.wtf/docs"><b>Docs</b></a> ·
-<a href="https://sonodex.zxp.wtf/changelog"><b>Changelog</b></a>
+<a href="https://sonodex.zxp.wtf/changelog"><b>Changelog</b></a> ·
+<a href="mailto:support@sonodex.zxp.wtf"><b>Support</b></a>
 
 </div>
 
