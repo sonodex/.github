@@ -19,7 +19,7 @@
 
 **Sonodex** is a desktop app that prepares DJ libraries. Import your music and existing libraries, analyse tracks, set cues, beatgrids and playlists, and sync the result back into the DJ software you play with.
 
-Your library and the audio analysis stay on your computer. Every change to files or another app's library is shown as a preview first, backed up, and can be undone.
+Your library and the audio analysis stay on your computer. Before Sonodex writes to your audio files or to another DJ app's library, it shows you a preview. Edits inside the Sonodex library can be undone from the history. Sonodex does not back anything up before a sync or a file change, and it cannot undo a finished sync, moved or converted audio files or replaced cover art: back up your DJ library and your music first. A backup of the Sonodex library is one click away under Settings → Backups.
 
 ### Built with
 
